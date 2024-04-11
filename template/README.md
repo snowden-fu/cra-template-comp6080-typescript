@@ -1,15 +1,9 @@
-# CRA Template - COMP6080
+# Getting Started with Create React App
+## ⚡️ start
 
-This is a custom [Create React App](https://create-react-app.dev/) template for COMP6080.
+```
+npm start
+```
 
-## Features
-
-- Pre-configured with TypeScript
-- Includes testing libraries
-
-## Usage
-
-To use this template, add `--template comp6080-typescript` when creating a new app.
-
-```sh
-npx create-react-app my-app --template comp6080-typescript
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
