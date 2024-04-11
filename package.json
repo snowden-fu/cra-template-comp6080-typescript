@@ -1,7 +1,7 @@
 {
   "name": "cra-template-comp6080-typescript",
   "version": "0.0.1",
-  "description": "",
+  "description": "This is a template in typescript for COMP6080 at UNSW, which is based on the official typescript template of create-react-app.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,10 @@
     "cra",
     "unsw"
   ],
-  "author": "",
+  "author": {
+    "name": "Snowden Fu",
+    "email": "24203166+snowden-fu@users.noreply.github.com"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
