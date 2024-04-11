@@ -17,5 +17,8 @@
   ],
   "author": "",
   "license": "MIT",
-  "repository": {}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowden-fu/cra-template-comp6080-typescript.git"
+  }
 }
