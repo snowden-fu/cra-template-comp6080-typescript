@@ -6,6 +6,7 @@ This is a custom [Create React App](https://create-react-app.dev/) template for 
 
 - Pre-configured with TypeScript
 - Includes testing libraries
+- Includes react-router-dom v6
 
 ## Usage
 
