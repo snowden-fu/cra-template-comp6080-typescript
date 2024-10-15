@@ -7,10 +7,11 @@ This is a custom [Create React App](https://create-react-app.dev/) template for 
 - Pre-configured with TypeScript
 - Includes testing libraries
 - Includes react-router-dom v6
+- Includes Prettier, lint-staged, and husky for code formatting and linting
 
 ## Usage
 
 To use this template, add `--template comp6080-typescript` when creating a new app.
 
 ```sh
-npx create-react-app my-app --template comp6080-typescript
+npx create-react-app my-app --template comp6080-typescript```
