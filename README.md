@@ -39,14 +39,21 @@ npm run build
 ```
 my-app/
   ├── public/          # Static assets
+  │   ├── index.html   # HTML template
+  │   └── favicon.ico  # Website icon
   ├── src/             # Source code
-  │   ├── components/  # React components
+  │   ├── components/  # Reusable components
+  │   │   └── Footer.tsx
   │   ├── pages/       # Page components
+  │   │   ├── About.tsx
+  │   │   └── Home.tsx
+  │   ├── styles/      # Styled components & themes
   │   ├── App.tsx      # Application entry
   │   └── index.tsx    # Render entry
   ├── package.json     # Project configuration
-  └── tsconfig.json    # TypeScript configuration
-```
+  ├── tsconfig.json    # TypeScript configuration
+  ├── .eslintrc.js    # ESLint configuration
+  └── .prettierrc     # Prettier configuration
 
 ## 📝 License
 
