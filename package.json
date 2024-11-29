@@ -1,6 +1,6 @@
 {
   "name": "cra-template-comp6080-typescript",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "This is a template in typescript for COMP6080 at UNSW, which is based on the official typescript template of create-react-app.",
   "main": "index.js",
   "scripts": {
